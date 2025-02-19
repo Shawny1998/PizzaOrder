@@ -1,0 +1,14 @@
+/*
+Classes
+Employee: Employee ID (int), name (string), phone # (int)
+Customers: Customer ID (int), name (string), phone # (int), address (string)
+Menu: Item ID (int), name (string), price (float)
+Order History: Order ID (int), total (float), items (array), payment (string), card # (int), date (int), notes (string), customer ID (int)
+*/
+//e
+Scroll bar (part 1 of 3): https://explodingpixels.wordpress.com/2008/12/08/skinning-a-scroll-bar-part-1/
+Making a JAR from JavaFX: https://medium.com/@vinayprabhu19/creating-executable-javafx-application-part-2-c98cfa65801e
+tutorial for pizza javafx link : https://www.angus-liu.cn/JavaFX-For-Dummies-zh/en/Chapter-10.html#%E5%88%9B%E5%BB%BA%E8%87%AA%E5%AE%9A%E4%B9%89%E8%8F%9C%E5%8D%95%E9%A1%B9
+Adding custom font to javafx: https://www.youtube.com/watch?v=43duJsYmhxQ
+Adding custom font to javafx resource 2: https://stackoverflow.com/questions/33336542/javafx-custom-fonts
+JAR https://www.youtube.com/watch?v=EyYb0GmtEX4&ab_channel=Randomcode
